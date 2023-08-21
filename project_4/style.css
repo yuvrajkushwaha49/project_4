@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-image: linear-gradient(to right , rgb(219, 47, 235), rgb(74, 101, 233));
+    width: 100%;
+    height: 700px;  
+   
+}
+ .leftside{
+    background-color: #0da4a7;
+    width: 50%;
+    color: white;
+
+
+ }
+ #let{
+    font-size: 55px;
+ }   
+ .leftside p{
+    font-size: 22px;
+    padding: 20px;
+ }
+ .lets{
+    padding: 0px 107px;
+ }
+ .headerr{
+    padding: 80px 100px;
+    text-align: center;
+    display: flex;
+ }
+ 
+ /*rightt*/
+ .rightside{
+    width: 50%;
+    background-color: white;
+    
+ }
+ .rightside h1{
+    font-size: 50px;
+
+ }
+ .texts{
+    width: 70%;
+    height: 35px;
+    background: rgb(208, 208, 208);
+    margin-top: 20px;
+    border-style: none;
+ }
+ #Required{
+    margin-right: 435px;
+    margin-bottom: -10px;
+ }
+ .textss{
+
+    background: rgb(208, 208, 208);
+    margin-top: 20px;
+    border-style: none;
+ }
+.submit{
+
+   border-style: none;
+   padding: 9px 40px;
+   margin: 15px;
+   border-radius: 20px;
+   background-color: #0da4a7;
+   color: white;
+}
